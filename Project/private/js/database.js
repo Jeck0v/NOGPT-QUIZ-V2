@@ -5,13 +5,13 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyArqtlILhyHhFEmp5NUMChpsR3ooZmnaPI",
-  authDomain: "qizz-d4c6b.firebaseapp.com",
-  databaseURL: "https://qizz-d4c6b-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "qizz-d4c6b",
-  storageBucket: "qizz-d4c6b.appspot.com",
-  messagingSenderId: "43576131512",
-  appId: "1:43576131512:web:9e08cc786caca2f3c1594d"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // initalize firebase
