@@ -10,7 +10,7 @@ The new design is still being created, but for the moment I'm concentrating on t
 1) clone the repo
 2) cd Project
 3) npm i 
-4) npm start 
+4) npm start or docker compoe up
 5) you can test going on different routes: 
 
 ## ➤ Routes
